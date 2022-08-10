@@ -49,7 +49,7 @@ source .devops/bin/activate
 * Create Flask app in Container
 * Run via kubectl
 
-### files in the repository
+### Files in the repository
 
 * docker_out.txt - output prediction
 * kubernetes_out.txt - output while running docker image with kubernetes
