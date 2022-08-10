@@ -1,4 +1,4 @@
-(https://circleci.com/<gh>/<koladeg>/<Operationalize_Microservice_API>.svg?style=svg)](<https://app.circleci.com/pipelines/github/koladeg/Operationalize_Microservice_API>)
+(https://circleci.com/gh/koladeg/Operationalize_Microservice_API.svg?style=svg)](https://app.circleci.com/pipelines/github/koladeg/Operationalize_Microservice_API)
 
 ## Project Overview
 
@@ -48,3 +48,8 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### files in the repository
+
+* docker_out.txt - output prediction
+* kubernetes_out.txt - output while running docker image with kubernetes
