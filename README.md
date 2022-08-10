@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+(https://circleci.com/<gh>/<koladeg>/<Operationalize_Microservice_API>.svg?style=svg)](<https://app.circleci.com/pipelines/github/koladeg/Operationalize_Microservice_API>)
 
 ## Project Overview
 
